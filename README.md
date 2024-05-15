@@ -1,4 +1,4 @@
-#👋 Hi, I’m @saidinesh49
+# 👋 Hi, I’m @saidinesh49
 
 ## A person who is interesed in Research, explore and Innovation
 - 👀 I’m interested in Web Dev, Machine Learning, Developing Algorithms for games, System Design.
@@ -10,4 +10,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>
-![Machine-Learning-python](https://img.shields.io/badge/Machine-Learning-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine-Learning-python](https://img.shields.io/badge/Machine_Learning_python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
