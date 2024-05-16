@@ -2,7 +2,7 @@
 
 ## A person who is interesed in Research, explore and Innovation
 - 👀 I’m interested in Web Dev, Machine Learning, Developing Algorithms for games, System Design.
-- 👩🏻‍💻 I’m currently learning ML,DL & Computer Vision
+- 👩🏻‍💻 I’m currently learning ML,DL 
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
