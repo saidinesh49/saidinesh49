@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @saidinesh49
+# 👋 Hi, I’m Sai Dinesh
 
 ## A person who is interesed in Research, explore and Innovation
 - 👀 I’m interested in Web Dev, Machine Learning, Developing Algorithms for games, System Design.
