@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Sai Dinesh (Student)
 
-## A person who is interesed in Research, explore and Innovation
+## A person who is interesed in Research, exploration and Innovation
 - 👀 I’m interested in Web Dev, Machine Learning, Developing Algorithms for games, System Design.
-- 👩🏻‍💻 I’m currently learning ML,DL 
+- 👩🏻‍💻 I’m currently learning ML and DL 
 
-<strong>Current Status: </strong> Pursuing UG in Computer Science Engineering
+<strong>Current Status: </strong> Pursuing UG degree in Computer Science Engineering
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
