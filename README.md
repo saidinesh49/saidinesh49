@@ -2,7 +2,7 @@
 
 ## A person who is interesed in Research, exploration and Innovation
 - 👀 I’m interested in Web Dev, Machine Learning, Developing Algorithms for games, System Design.
-- 👩🏻‍💻 I’m currently learning ML and DL 
+- 👩🏻‍💻 I’m currently learning ML 
 
 <strong>Current Status: </strong> Pursuing UG degree in Computer Science Engineering
 
