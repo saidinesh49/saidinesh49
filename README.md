@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sai Dinesh (Student)
 
-## A person who is interesed in Research, exploration and Innovation
+## A person who is interested in Research, exploration and Innovation
 - 👀 I’m interested in Web Dev, Machine Learning, Developing Algorithms for games, System Design.
 - 👩🏻‍💻 I’m currently learning ML 
 
