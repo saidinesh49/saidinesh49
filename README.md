@@ -1,16 +1,16 @@
 <code>hi, i'm Sai Dinesh👋.</code><br>
-<code>UG student in Computer Science Engineering</code><br><br>
+<code>pre-final year college student</code><br><br>
 <code>i am a developer with interests in Web Dev, Machine Learning, Developing/Designing Algorithms, System Design, Competitive Programming, and Backend Development.</code><br>
 <code>also, i am currently working on productive application building.</code><br>
 
 ![](https://komarev.com/ghpvc/?username=saidinesh49&base=1000&color=ED8796)<br>
 
-> **IMPORTANT**<br/> 
+> [!IMPORTANT]
 > <code>➜ primary email: [dineshpalisetty49@gmail.com](mailto:dineshpalisetty49@gmail.com)</code><br>
 > <code>➜ secondary email: [saidineshpalisetty@gmail.com](mailto:saidineshpalisetty@gmail.com)</code><br>  
 > <code>➜ my leetcode profile: [saidinesh01](https://leetcode.com/u/saidinesh01)</code><br>
 
-> **Note**  
+> [!Note]
 > <code>➜ linkedin: [palisetty sai dinesh](https://linkedin.com/in/palisetty-sai-dinesh)</code><br/> 
 > <code>➜ twitter: [Dinesh_010](https://x.com/Dinesh_010)</code><br><br>
 
