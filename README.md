@@ -1,5 +1,5 @@
 <code>hi, i'm Sai Dinesh👋.</code><br>
-<code>pre-final year college student</code><br><br>
+<code>final year college student</code><br><br>
 <code>i am a developer with interests in Web Dev, Machine Learning, Developing/Designing Algorithms, System Design, Competitive Programming, and Backend Development.</code><br>
 <code>also, i am currently working on productive application building.</code><br>
 
