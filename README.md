@@ -1,7 +1,8 @@
-<code>hi, i'm Sai Dinesh👋.</code><br>
-<code>final year college student</code><br><br>
-<code>i am a developer with interests in Web Dev, Machine Learning, Developing/Designing Algorithms, System Design, Competitive Programming, and Backend Development.</code><br>
-<code>also, i am currently working on productive application building.</code><br>
+<code>Hi, I'm Sai Dinesh 👋</code><br>
+<code>Final-year CSE student who codes, builds, and ships</code><br>
+<code>Skilled in building real-world apps & solving algorithmic problems</code><br>
+<code>Active in dev projects & competitive programming.</code><br>
+
 
 ![](https://komarev.com/ghpvc/?username=saidinesh49&base=1000&color=ED8796)<br>
 
