@@ -1,7 +1,7 @@
 <code>Hi, I'm Sai Dinesh 👋</code><br>
-<code>Final-year CSE student who codes, builds, and ships</code><br>
+<code>Final-year CSE student who codes, builds, and ships⚡</code><br>
 <code>Skilled in building real-world apps & solving algorithmic problems</code><br>
-<code>Active in dev projects & competitive programming.</code><br>
+- <code>Active in dev projects & competitive programming📊</code><br>
 
 
 ![](https://komarev.com/ghpvc/?username=saidinesh49&base=1000&color=ED8796)<br>
